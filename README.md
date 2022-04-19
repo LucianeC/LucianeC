@@ -2,9 +2,8 @@
 ### Eu sou a Luciane Costa
 
 - 🐱‍👤 17 anos
-- 🔭 Atualmente estudando progrmação
 - 🌱 Estou à procura de projetos para aprimorar minha experiencia front-end e back-end.
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="">
