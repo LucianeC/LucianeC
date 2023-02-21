@@ -1,8 +1,7 @@
 # Olá 👋!  
 ### Eu sou a Luciane Costa
 
-- 🐱‍👤 18 anos
-- 🌱 Estou à procura de projetos para aprimorar minha experiencia front-end e back-end.
+- 👩‍💻💻 Análise e desenvolvimento - FIAP.
 
 
 <div align="center">
