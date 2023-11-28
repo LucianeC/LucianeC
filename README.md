@@ -1,7 +1,7 @@
 # Olá 👋!  
 ### Eu sou a Luciane Costa
 
-- 👩‍💻💻 Análise e desenvolvimento de Sistemas- FIAP.
+- 👩‍💻💻 Análise e desenvolvimento de Sistemas- FIAP 2/4.
 
 
 <div align="center">
