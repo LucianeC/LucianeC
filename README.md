@@ -1,7 +1,7 @@
 # Olá 👋!  
 ### Eu sou a Luciane Costa
 
-- 👩‍💻 Análise e desenvolvimento de Sistemas- FIAP 3/4.
+- 👩‍💻 Análise e desenvolvimento de Sistemas- FIAP 4/4.
 - 💻 Desenvolvedora FullStack
 
 <div align="center">
